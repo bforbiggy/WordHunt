@@ -9,13 +9,14 @@ export default {
 		extend: {
 			fontFamily: {
 				'DynaPuff': ['"Dynapuff"', ...defaultTheme.fontFamily.sans],
-				'GamjaFlower': ['"GamjaFlower"', ...defaultTheme.fontFamily.serif],
+				'Titan': ['"Titan"', ...defaultTheme.fontFamily.serif],
 			},
 			colors: {
-				'powderblue': '#BAE0E8',
-				'silver': '#C3D2D5',
-				'crystalblue': '#6EA9B5',
-				'navy': "#4C6085",
+				'one': '#C5CADB',
+				'two': '#D6D6D6',
+				'three': '#4E70F5',
+				'four': '#4F66C4',
+				'five': "#2B44A6",
 			}
 		}
 	},

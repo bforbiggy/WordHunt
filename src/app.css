@@ -10,8 +10,8 @@
 	}
 
 	@font-face {
-		font-family: 'GamjaFlower';
+		font-family: 'Titan';
 		font-style: normal;
-		src: url("$lib/fonts/GamjaFlower.ttf");
+		src: url("$lib/fonts/TitanOne.ttf");
 	}
 }
